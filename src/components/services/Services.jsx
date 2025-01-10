@@ -1,7 +1,4 @@
-import ComputerModelContainer from "./computer/ComputerModelContainer";
-import ConsoleModelContainer from "./console/ConsoleModelContainer";
 import Counter from "./Counter";
-import MugModelContainer from "./mug/MugModelContainer";
 import "./services.css";
 import { motion, useInView } from "motion/react";
 import { useRef, useState } from "react";
