@@ -48,7 +48,7 @@ const Hero = () => {
         >
           Hey There,
           <br />
-          <span>I&apos;m Robert!</span>
+          <span>I&apos;m Ilyas!</span>
         </motion.h1>
         {/* AWARDS */}
         <motion.div
